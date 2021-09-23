@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.exe
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.deps.json
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.runtimeconfig.json
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.runtimeconfig.dev.json
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.dll
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ref\ProjetoDesafio.dll
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\bin\Debug\net5.0\ProjetoDesafio.pdb
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.AssemblyInfo.cs
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.dll
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ref\ProjetoDesafio.dll
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.pdb
+C:\ws-vs2019.2021\ProjetoDesafio\ProjetoDesafio\obj\Debug\net5.0\ProjetoDesafio.genruntimeconfig.cache

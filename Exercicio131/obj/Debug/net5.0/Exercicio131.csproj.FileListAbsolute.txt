@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.exe
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.deps.json
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.runtimeconfig.json
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.runtimeconfig.dev.json
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.dll
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\ref\Exercicio131.dll
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\bin\Debug\net5.0\Exercicio131.pdb
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.AssemblyInfo.cs
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.dll
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\ref\Exercicio131.dll
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.pdb
+C:\ws-vs2019.2021\Exercicio131\Exercicio131\obj\Debug\net5.0\Exercicio131.genruntimeconfig.cache
